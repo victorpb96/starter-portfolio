@@ -56,7 +56,7 @@ export const projectsData = [
   {
     title: "Cryptoinvestor.tech",
     description:
-      "I build a crypto news web application that showcases different short form articles on everything crypto.",
+      "I built a crypto news web application that showcases different short form articles on everything crypto.",
     tags: ["HTML", "CSS", "JavaScript"],
     imageUrl: corpcommentImg,
   },

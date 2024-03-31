@@ -19,9 +19,8 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        After completing a Diploma of Property Serives,{" "}
+        After completing a Diploma of Property Services,{" "}
         <span className="font-medium"></span> I decided to take a 180 and learn programming, I studied Computer Science through FreeCodeCamp.{" "}
-        <span className="font-medium"></span>{" "}
         <span className="italic">My favorite part of programming</span> is the
         problem-solving aspect. I <span>love </span> 
         the design and development aspect of coding. My core stack
